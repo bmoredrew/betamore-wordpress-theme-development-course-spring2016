@@ -1,5 +1,10 @@
 # WordPress Theme Development Course Fall 2016
 
+## Objectives:
+
+	* Week 3-6: Building a Blog/Basic Theme
+	* Week 6-8: Adding static pages, custom fields, and elements to existing theme to create full website
+
 ## Week 1A: Intro Class
 
     * Meet & Greet
